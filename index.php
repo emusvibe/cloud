@@ -2,6 +2,6 @@
 
 echo 'This is it';
 
-phpinfo();
+
 
 ?>
